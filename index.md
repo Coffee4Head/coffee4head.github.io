@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
+
 <img src="images/profile.jpg" class="floatpic" width="360" height="540">
 
 Here is **Yang Adrian Liu (柳扬)**.
