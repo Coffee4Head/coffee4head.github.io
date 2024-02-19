@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-
+<br>
 
 <img src="images/profile.jpg" class="floatpic" width="360" height="540">
 
@@ -18,8 +18,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (Master of Engineering)
-- **Sep. 2018 - June 2022:** Fudan University, Shanghai (Bachelor of Engineering)
+- **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (M.E.)
+- **Sep. 2018 - June 2022:** Fudan University, Shanghai (B.E.)
 
 Expect to apply for a **Summer Research/Intern** program in 2024 and will graduate in June 2025. Looking for PhD position after that.
 
@@ -27,7 +27,7 @@ Expect to apply for a **Summer Research/Intern** program in 2024 and will gradua
 
 ---
 
-## Research Interests
+## Research Interests - EECS
 
 - Design Automation
 - Architecture Modeling and DSE
@@ -42,14 +42,16 @@ My current research focuses on **design automation** that enables agile hardware
 
 ## News and Updates
 
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (First Prize).
+- **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at [FPL 2023, Gothenburg](https://2023.fpl.org/).
+- **May 2023：**Our paper is accepted to FPL 2023, see you in Sweden.
+- **Dec. 2022：**Happy to be awarded the Fudan University Freshman Scholarship for Graduate Students.
+- **June 2022：**Happy to be awarded the Shanghai Outstanding Graduates (Undergraduate).
+- **May 2022：**Happy to be awarded the Fudan University Undergraduate Student Excellence Scholarship (First Prize).
+- **Feb. 2022：**Our team (*fmsh*) won the fifth place in 2021AIWIN Fall - ECG Diagnosis Track.
+- **Feb. 2022：**Start my research studies in State Key Laboratory of ASIC and System in FDU.
+- **Nov. 2021：**Our team (*fmsh*) won the Grand Prize in Shanghai Urban Digital Transformation Intelligent Algorithm Competition.
+- **July. 2021：**Started my IC intern at Intelligence Computing Lab in Shanghai Fudan Microelectronics Group Co., Ltd.
+- **Dec. 2020：**Happy to be awarded the Shanghai Municipal Scholarship.
 
 <br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
