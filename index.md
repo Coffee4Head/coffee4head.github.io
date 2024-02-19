@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<br>
+  
 
 <img src="images/profile.jpg" class="floatpic" width="360" height="540">
 

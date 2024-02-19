@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Scholarships
 
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only [12 undergraduates](https://aaai-uc.github.io/) are selected around the world
@@ -33,14 +31,9 @@ title: Awards
 
 ## Honors
 
-- Dec 2023：AAAI 2024 UC Scholar<br>Mentor: Tozammel Hossain, University of North Texas
-- Aug 2023：FEPG Scholarship<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- *<font color='gray'>July 2023：Nomination for Baosteel Scholarship</font>*
-- *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
-- *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
+- June 2022：**Shanghai Outstanding Graduates** (Undergraduate)<br>
+- Oct. 2021：**Fudan University Outstanding Student** <br>
+- Dec. 2019：Fudan University Outstanding Internet Culture Work: **Second Prize**<br>*Co-founded a student mental health social media page, achieving 2k+ followers and nearly 30k views in one semester*
 
 ## Services
 
