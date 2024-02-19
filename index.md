@@ -42,16 +42,16 @@ My current research focuses on **design automation** that enables agile hardware
 
 ## News and Updates
 
-- **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (First Prize).
+- **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (**First Prize**).
 - **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at [FPL 2023, Gothenburg](https://2023.fpl.org/).
 - **May 2023：**Our paper is accepted to FPL 2023, see you in Sweden.
 - **Dec. 2022：**Happy to be awarded the Fudan University Freshman Scholarship for Graduate Students.
-- **June 2022：**Happy to be awarded the Shanghai Outstanding Graduates (Undergraduate).
-- **May 2022：**Happy to be awarded the Fudan University Undergraduate Student Excellence Scholarship (First Prize).
-- **Feb. 2022：**Our team (*fmsh*) won the fifth place in 2021AIWIN Fall - ECG Diagnosis Track.
-- **Feb. 2022：**Start my research studies in State Key Laboratory of ASIC and System in FDU.
-- **Nov. 2021：**Our team (*fmsh*) won the Grand Prize in Shanghai Urban Digital Transformation Intelligent Algorithm Competition.
+- **June 2022：**Happy to be awarded the **Shanghai Outstanding Graduates** (Undergraduate).
+- **May 2022：**Happy to be awarded the Fudan University Undergraduate Student Excellence Scholarship (**First Prize**).
+- **Feb. 2022：**Our team (*fmsh*) won the **fifth place** in [2021AIWIN Fall - ECG Diagnosis Track](http://aiwin.org.cn/competitions/64).
+- **Feb. 2022：**Start my research studies in State Key Laboratory of ASIC and System in Fudan University.
+- **Nov. 2021：**Our team (*fmsh*) won the **Grand Prize** in [Shanghai Urban Digital Transformation Intelligent Algorithm Competition](http://aiwin.org.cn/competitions/60).
 - **July. 2021：**Started my IC intern at Intelligence Computing Lab in Shanghai Fudan Microelectronics Group Co., Ltd.
-- **Dec. 2020：**Happy to be awarded the Shanghai Municipal Scholarship.
+- **Dec. 2020：**Happy to be awarded the **Shanghai Municipal Scholarship**.
 
 <br>

@@ -4,15 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+
 
 ## Conference Paper
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium/))<br>Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>Freshman course design, early project.<br>Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- [DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA](https://ieeexplore.ieee.org/document/10296290)<br>**Yang Liu**, Xiaoming He, Jun Yu, Kun Wang<br>33rd International Conference on Field Programmable Logic and Applications ([FPL2023](https://2023.fpl.org/))<br>*Chalmers University of Technology, Gothenburg, Sweden, Sep. 2024.*
 
   <br>
 
@@ -24,20 +20,32 @@ title: Publications
 
 ---
 
-## Working Manuscript
+## Project Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>
+#### DIF-LUT | *Python, Verilog HDL, Shell; Vivado*
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
+- Proposes a simple yet scalable and effective approximation for Non-linear function<br>
+
+- Designed an automation toolchain for table generation and precision evaluation<br>
+
+- Integrated as an computing unit in FPGA-based accelerator for DNN and Nerf
+
+  <br>
+
+#### SEResnet Accelerator on SOC | *Verilog HDL, C++, Python, Shell; Vivado, VStudio*
+
+- Organized the acceleration flow of hardware and software co-design with the compiler<br>
+
+- Deployed specific operations on programmable logic resource of SOC<br>
+
+- Programmed and registered C++ operations on host CPU for simulation
 
   <br>
 
 ---
 
-## Undergrad Thesis
+## Undergraduate Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
+- A Hardware Acceleration Strategy of Squeeze-and-excite Network Based on the FPAI Chip and Compiler<br>**Yang Liu** (Advisor: Jun Yu). Final Year Project (FYP). <br>Expect to be developed into a journal article for submission to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ([TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)).
 
   <br>
