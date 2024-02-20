@@ -11,6 +11,7 @@ title: Awards
 - May 2022:  **Fudan University Undergraduate Student Excellence Scholarship First Prize** <br>
 - Dec. 2021:  Fudan University Undergraduate Student Excellence Scholarship Second Prize<br>
 - Dec. 2020:  **<font color='red'>Shanghai Municipal Scholarship</font> 2020 ** <br>
+- Dec. 2020:  **<font color='red'>Shanghai Outstanding Graduates</font> (Undergraduate)** <br>
 - Dec. 2019:  Fudan University Undergraduate Student Excellence Scholarship Third Prize<br>
 
 <br>
