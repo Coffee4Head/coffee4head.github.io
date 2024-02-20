@@ -22,19 +22,19 @@ title: Publications
 
 ## Project Manuscript
 
-#### DIF-LUT | *Python, Verilog HDL, Shell; Vivado*
+##### DIF-LUT | *Python, Verilog HDL, Shell; Vivado*
 
 - Proposes a simple yet scalable and effective approximation for Non-linear function
 
-- Designed an automation toolchain for table generation and precision evaluation
+- Designed an automation toolchain for table generation and evaluation
 
-- Integrated as an computing unit in FPGA-based accelerator for DNN and Nerf
+- Integrated as an computing unit in FPGA-based accelerator for various scenarios like DNN and Nerf
 
   <br>
 
-#### SEResnet Accelerator on SOC | *Verilog HDL, C++, Python, Shell; Vivado, VStudio*
+##### SEResnet Accelerator on SOC| *Verilog HDL, C++, Python, Shell; Vivado, VStudio*
 
-- Organized the acceleration flow of hardware and software co-design with the compiler
+- Organized the acceleration flow of hard/software co-design with the compiler
 
 - Deployed specific operations on programmable logic resource of SOC
 
@@ -46,6 +46,8 @@ title: Publications
 
 ## Undergraduate Thesis
 
-- A Hardware Acceleration Strategy of Squeeze-and-excite Network Based on the FPAI Chip and Compiler<br>**Yang Liu** (Advisor: Jun Yu). Final Year Project (FYP). <br>Expect to be developed into a journal article for submission to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ([TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)).
+- A Hardware Acceleration Strategy of Squeeze-and-excite Network Based on the FPAI Chip and Compiler<br>**Yang Liu** (Advisor: Jun Yu). Final Year Project (FYP). 
 
+  <br>Expect to be developed into a journal article for submission to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ([TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)).
+  
   <br>
