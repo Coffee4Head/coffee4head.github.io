@@ -10,7 +10,7 @@ title: Awards
 - Dec. 2022:  Fudan University Freshman Scholarship for Graduate Students <br>
 - May 2022:  **Fudan University Undergraduate Student Excellence Scholarship First Prize** <br>
 - Dec. 2021:  Fudan University Undergraduate Student Excellence Scholarship Second Prize<br>
-- Dec. 2020:  <font color='red'>**Shanghai Municipal Scholarship**</font> <br>
+- Dec. 2020:  **<font color='red'>Shanghai Municipal Scholarship</font> ** <br>
 - Dec. 2019:  Fudan University Undergraduate Student Excellence Scholarship Third Prize<br>
 
 <br>
@@ -25,7 +25,7 @@ title: Awards
 
 ## Honors
 
-- June 2020:  <font color='red'>**Shanghai Outstanding Graduates** </font> (Undergraduate)<br>
+- June 2020:  **<font color='red'>Shanghai Outstanding Graduates</font> (Undergraduate)** <br>
 - Oct. 2021:  **Fudan University Outstanding Student** <br>
 - Dec. 2019:  Fudan University Outstanding Internet Culture Work: **Second Prize**<br>*Co-founded a student mental health social media page, achieving 2k+ followers and nearly 30k views in one semester*
 
