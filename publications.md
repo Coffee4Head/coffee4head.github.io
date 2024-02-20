@@ -24,9 +24,9 @@ title: Publications
 
 #### DIF-LUT | *Python, Verilog HDL, Shell; Vivado*
 
-- Proposes a simple yet scalable and effective approximation for Non-linear function<br>
+- Proposes a simple yet scalable and effective approximation for Non-linear function
 
-- Designed an automation toolchain for table generation and precision evaluation<br>
+- Designed an automation toolchain for table generation and precision evaluation
 
 - Integrated as an computing unit in FPGA-based accelerator for DNN and Nerf
 
@@ -34,9 +34,9 @@ title: Publications
 
 #### SEResnet Accelerator on SOC | *Verilog HDL, C++, Python, Shell; Vivado, VStudio*
 
-- Organized the acceleration flow of hardware and software co-design with the compiler<br>
+- Organized the acceleration flow of hardware and software co-design with the compiler
 
-- Deployed specific operations on programmable logic resource of SOC<br>
+- Deployed specific operations on programmable logic resource of SOC
 
 - Programmed and registered C++ operations on host CPU for simulation
 
