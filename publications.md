@@ -34,7 +34,7 @@ title: Publications
 
 #### SEResnet Accelerator | *Verilog HDL, C++, Python, Shell; Vivado, VStudio*
 
-- Organized the acceleration flow of hardware and software co-design with the compiler<br>
+- Organized the acceleration flow of hardware and software co-design with the compiler toolchain for quantization, instruction generation, .etc<br>
 
 - Deployed specific operations on programmable logic resource of SOC<br>
 
