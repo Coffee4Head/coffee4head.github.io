@@ -19,10 +19,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
 - **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (M.E.)
-  - **GPA: 3.85/4.00		Rank: 1st** (out of 45)
+  - <strong style="color: brown;">GPA: 3.85/4.00 $~~~~$ Rank: 1st</strong> (out of 45)
 
 - **Sep. 2018 - June 2022:** Fudan University, Shanghai (B.E.)
-  - **GPA: 3.80/4.00		Rank: 3rd** (out of 147)
+  - <strong style="color: brown;">GPA: 3.80/4.00 $~~~~$ Rank: 3rd</strong> (out of 45)
 
 
 Expect to apply for a **Summer Research/Intern** program in 2024 and will graduate in June 2025. Looking for PhD position after that.
