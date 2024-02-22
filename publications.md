@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration *(pending for camera-ready)*<br>Yueyin Bai, Keqing Zhao, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'24](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
+- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration<br>Yueyin Bai, Keqing Zhao, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'24](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
 
   <br>
 
