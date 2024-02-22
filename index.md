@@ -42,6 +42,7 @@ My current research focuses on **design automation** that enables agile hardware
 
 ## News and Updates
 
+- **Feb. 2024：**Our paper is accepted by <strong style="color: brown;">DAC'24</strong>.
 - **Feb. 2024：**Our paper is accepted by <font color='brown'>**DAC'24**</font>.
 - **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (**First Prize**).
 - **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at [FPL 2023, Gothenburg](https://2023.fpl.org/).
