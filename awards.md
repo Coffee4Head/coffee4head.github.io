@@ -10,7 +10,7 @@ title: Awards
 - Dec. 2022:  Fudan University Freshman Scholarship for Graduate Students <br>
 - May 2022:  **Fudan University Undergraduate Student Excellence Scholarship First Prize** <br>
 - Dec. 2021:  Fudan University Undergraduate Student Excellence Scholarship Second Prize<br>
-- Dec. 2020:  **<font color='red'>Shanghai Municipal Scholarship</font> (Undergraduate)** <br>
+- Dec. 2020:  <strong style="color: RED;">Shanghai Municipal Scholarship</strong> <br>
 - Dec. 2019:  Fudan University Undergraduate Student Excellence Scholarship Third Prize<br>
 
 <br>
@@ -31,10 +31,9 @@ title: Awards
 
 <br>
 
-## Services & Engagement
+## Services
 
-- Spring 2024:  Assistant Administrator, Psychological Center
-- Sep. 2023:  FPL2023 Poster Presentation
+- Spring 2024:  Administrative Assistant, Mental Health Center of Fudan University
 - Spring 2023:  Teaching Assistant for Methodology of Integrated Circuit Design
 - Fall 2019:  Teaching Assistant for Psychological Training of Success Qualities
 - Jan. 2020 - Jan. 2021:  Middle Manager, Work-Study Program Entity of Fudan University
