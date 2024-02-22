@@ -8,7 +8,11 @@ title: Publications
 
 ## Conference Paper
 
-- [DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA](https://ieeexplore.ieee.org/document/10296290)<br>**Yang Liu**, Xiaoming He, Jun Yu, Kun Wang<br>33rd International Conference on Field Programmable Logic and Applications ([FPL2023](https://2023.fpl.org/))<br>*Chalmers University of Technology, Gothenburg, Sweden, Sep. 2024.*
+- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration *(pending for camera-ready)*<br>Yueyin Bai, Keqing Zhao, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'24](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
+
+  <br>
+
+- [DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA](https://ieeexplore.ieee.org/document/10296290)<br>**Yang Liu**, Xiaoming He, Jun Yu, Kun Wang<br>33rd International Conference on Field Programmable Logic and Applications ([FPL2023](https://2023.fpl.org/))<br>*Chalmers University of Technology, Gothenburg, Sweden, Sep. 2023.*
 
   <br>
 
