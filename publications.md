@@ -8,7 +8,12 @@ title: Publications
 
 ## Conference Paper
 
-- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration<br>Yueyin Bai, Keqing Zhao, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'24](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
+- SDAcc: A Stable Diffusion Accelerator on FPGA via
+    Software-Hardware Co-Design<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Kun Wang<br>32nd IEEE International Symposium On Field-Programmable Custom Computing Machines ([FCCM2024](https://www.fccm.org/))<br>*Orlando, FL, USA, May 2024.*
+
+  <br>
+
+- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration<br>Yueyin Bai\*, Keqing Zhao\*, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'24](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
 
   <br>
 
