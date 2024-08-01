@@ -18,9 +18,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
+- **June 2024 - Nov. 2024:** Cornell University, Ithaca
+  - <strong style="color: brown;">Graduate Intern</strong>  &nbsp;&nbsp;&nbsp;   <strong style="color: brown;">Field: Domain Specific Compiler</strong> 
 - **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (M.E.)
   - <strong style="color: brown;">GPA: 3.85/4.00</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <strong style="color: brown;">Rank: 1st</strong> (out of 45)
-
 - **Sep. 2018 - June 2022:** Fudan University, Shanghai (B.E.)
   - <strong style="color: brown;">GPA: 3.80/4.00</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <strong style="color: brown;">Rank: 3rd</strong> (out of 147)
 
@@ -47,11 +48,11 @@ My current research focuses on **design automation** that enables agile hardware
 ## News and Updates
 
 - **June 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">ICCAD 2024</strong>, see you in New Jersey!
-- **June 2024：**Start to serve as a Graduate Research Intern at Cornell University, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca!
-- **June 2024：**Gave an oral presentation on behalf of my colleague at <strong style="color: brown;">DAC'24</strong>.
+- **June 2024：**Start to serve as a Graduate Research Intern at<strong style="color: brown;"> Cornell University</strong>, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca!
+- **June 2024：**Gave an oral presentation on behalf of my colleague at [DAC'61, San Francisco](https://www.dac.com/).
 - **May 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">FPL 2024</strong>.
 - **Mar. 2024：**Our paper is accepted as a poster by <strong style="color: brown;">FCCM 2024</strong>.
-- **Feb. 2024：**Our paper is accepted by <strong style="color: brown;">DAC'24</strong>, see you in San Francisco!
+- **Feb. 2024：**Our paper is accepted by <strong style="color: brown;">DAC'61</strong>, see you in San Francisco!
 - **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (**First Prize**).
 - **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at [FPL 2023, Gothenburg](https://2023.fpl.org/).
 - **May 2023：**Our paper is accepted by <strong style="color: brown;">FPL 2023</strong>, see you in Sweden.
