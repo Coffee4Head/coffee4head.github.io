@@ -48,7 +48,7 @@ My current research focuses on **design automation** that enables agile hardware
 ## News and Updates
 
 - **June 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">ICCAD 2024</strong>, see you in New Jersey!
-- **June 2024：**Start to serve as a Graduate Research Intern at<strong style="color: brown;"> Cornell University</strong>, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca!
+- **June 2024：**Start to serve as a Graduate Research Intern at **Cornell University**, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca!
 - **June 2024：**Gave an oral presentation on behalf of my colleague at [DAC'61, San Francisco](https://www.dac.com/).
 - **May 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">FPL 2024</strong>.
 - **Mar. 2024：**Our paper is accepted as a poster by <strong style="color: brown;">FCCM 2024</strong>.
