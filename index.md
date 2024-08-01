@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
 - **June 2024 - Nov. 2024:** Cornell University, Ithaca
-  - <strong style="color: brown;">Graduate Intern</strong>  &nbsp;&nbsp;&nbsp;   <strong style="color: brown;">Field: Domain Specific Compiler</strong> 
+  - <strong style="color: brown;">Graduate Intern</strong>  &nbsp; &nbsp;&nbsp;&nbsp;   <strong style="color: brown;">Field: Domain Specific Compiler</strong> 
 - **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (M.E.)
   - <strong style="color: brown;">GPA: 3.85/4.00</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <strong style="color: brown;">Rank: 1st</strong> (out of 45)
 - **Sep. 2018 - June 2022:** Fudan University, Shanghai (B.E.)
