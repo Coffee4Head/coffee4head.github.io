@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   - <strong style="color: brown;">GPA: 3.80/4.00</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <strong style="color: brown;">Rank: 3rd</strong> (out of 147)
 
 
-Expect to apply for a **Summer Research/Intern** program in 2024 and will graduate in June 2025. Looking for PhD position after that.
+Will graduate in June 2025. Looking for PhD position after that.
 
 <br>
 
@@ -46,6 +46,10 @@ My current research focuses on **design automation** that enables agile hardware
 
 ## News and Updates
 
+- **June 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">ICCAD 2024</strong>, see you in New Jersey!
+- **June 2024：**Start to serve as a Graduate Research Intern at Cornell University, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca!
+- **June 2024：**Gave an oral presentation on behalf of my colleague at <strong style="color: brown;">DAC'24</strong>.
+- **May 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">FPL 2024</strong>.
 - **Mar. 2024：**Our paper is accepted as a poster by <strong style="color: brown;">FCCM 2024</strong>.
 - **Feb. 2024：**Our paper is accepted by <strong style="color: brown;">DAC'24</strong>, see you in San Francisco!
 - **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (**First Prize**).
