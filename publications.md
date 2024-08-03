@@ -8,12 +8,20 @@ title: Publications
 
 ## Conference Paper
 
+- TransLib: An Extensible Graph-Aware Library Framework for Automated Generation of Transformer Operators on FPGA<br>**Yang Liu**, Tianchen Wang, Yuxuan Dong, Zexu Zhang, Shun Li, Jun Yu, Kun Wang<br>2024 ACM/IEEE International Conference on Computer-Aided Design ([ICCAD2024](https://2024.iccad.com/))<br>*New Jersey, USA, October 2024.*
+    
+  <br>
+  
+- Fitop-Trans: Maximizing Transformer Pipeline Efficiency through Fixed-Length Token Pruning on FPGA<br>Kejia Shi\*, Manting Zhang\*, Keqing Zhao, Xiaoxing Wu, **Yang Liu**, Jun Yu and Kun Wang<br>34th International Conference on Field-Programmable Logic and Applications ([FPL2024](http://asaclab.polito.it/fpl2024/))<br>*Turin, Italy, September 2024.*
+    
+  <br>
+  
 - SDAcc: A Stable Diffusion Accelerator on FPGA via
     Software-Hardware Co-Design<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Kun Wang<br>32nd IEEE International Symposium On Field-Programmable Custom Computing Machines ([FCCM2024](https://www.fccm.org/))<br>*Orlando, FL, USA, May 2024.*
 
   <br>
 
-- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration<br>Yueyin Bai\*, Keqing Zhao\*, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'24](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
+- CSTrans-OPU: An FPGA-based Overlay Processor with Full Compilation for Transformer Networks via Sparsity Exploration<br>Yueyin Bai\*, Keqing Zhao\*, **Yang Liu**, Hongji Wang, Hao Zhou, Xiaoxing Wu, Jun Yu, Kun Wang<br>61st ACM/IEEE Design Automation Conference ([DAC'61](https://www.dac.com/))<br>*Moscone West, San Francisco, USA, June 2024.*
 
   <br>
 
