@@ -10,17 +10,17 @@ layout: page
 
 Here is **Yang Adrian Liu (柳扬)**.
 
-I am a second year M.E. student majoring in **Electronics Science and Technology** in the School of Microelectronics at **Fudan University**. Currently, I serve as a research assistant at the State Key Laboratory of ASIC and System, advised by [Prof. Jun Yu](https://sme.fudan.edu.cn/60/5e/c31157a352350/page.htm) and [Prof. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html). 
+I am a second year M.S. student majoring in **Electronics Science and Technology** in the School of Microelectronics at **Fudan University**. Since 2022, I have been a research assistant at the State Key Laboratory of ASIC and System, advised by [Prof. Jun Yu](https://sme.fudan.edu.cn/60/5e/c31157a352350/page.htm) and [Prof. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html). Currently, I serve as a graduate intern in the Computer Systems Laboratory at **Cornell University**, under the supervison of [Prof. Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yang_liu22@m.fudan.edu.cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yang_liu22@m.fudan.edu.cn* or *adrianliu@ieee.org*
 
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **June 2024 - Nov. 2024:** Cornell University, Ithaca
+- **June 2024 - Nov. 2024:** ECE Department, Cornell University, Ithaca
   - <strong style="color: brown;">Graduate Intern</strong>  &nbsp; &nbsp;&nbsp;&nbsp;   <strong style="color: brown;">Field: Domain Specific Compiler</strong> 
-- **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (M.E.)
+- **Sep. 2022 - June 2025 (expected):** Fudan University, Shanghai (M.S.)
   - <strong style="color: brown;">GPA: 3.85/4.00</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <strong style="color: brown;">Rank: 1st</strong> (out of 45)
 - **Sep. 2018 - June 2022:** Fudan University, Shanghai (B.E.)
   - <strong style="color: brown;">GPA: 3.80/4.00</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <strong style="color: brown;">Rank: 3rd</strong> (out of 147)
@@ -35,9 +35,9 @@ Will graduate in June 2025. Looking for PhD position after that.
 ## Research Interests - EECS
 
 - Design Automation
+- Domain Specific Compiler
 - Architecture Modeling and DSE
 - Hardware Accelerator
-- High-Level Synthesis (HLS)
 
 My current research focuses on **design automation** that enables agile hardware accelerator design, particularly in the field of **artificial intelligence**. In a word, as AI models continue to grow in size, I aim to contribute my talents to bridge the gap between automation tools and expert-designed hardware.
 
