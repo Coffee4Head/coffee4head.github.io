@@ -37,7 +37,7 @@ title: Publications
 
 -  DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA *(Under Review)*
 
-  **Yang Liu**,  Shuyang Li, Yu Li, Ruiqi Chen, Shun Li, Jun Yu, Kun Wang
+  **Yang Liu**, Shuyang Li, Yu Li, Ruiqi Chen, Shun Li, Jun Yu, Kun Wang
   
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
   
