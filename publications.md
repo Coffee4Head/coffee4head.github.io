@@ -9,11 +9,15 @@ title: Publications
 ## Conference Paper
 
 - TransLib: An Extensible Graph-Aware Library Framework for Automated Generation of Transformer Operators on FPGA<br>**Yang Liu**, Tianchen Wang, Yuxuan Dong, Zexu Zhang, Shun Li, Jun Yu, Kun Wang<br>2024 ACM/IEEE International Conference on Computer-Aided Design ([ICCAD2024](https://2024.iccad.com/))<br>*New Jersey, USA, October 2024.*
-    
+  
   <br>
   
-- Fitop-Trans: Maximizing Transformer Pipeline Efficiency through Fixed-Length Token Pruning on FPGA<br>Kejia Shi\*, Manting Zhang\*, Keqing Zhao, Xiaoxing Wu, **Yang Liu**, Jun Yu and Kun Wang<br>34th International Conference on Field-Programmable Logic and Applications ([FPL2024](http://asaclab.polito.it/fpl2024/))<br>*Turin, Italy, September 2024.*
-    
+- Deploying Diffusion Models with Latency-Oriented Scheduling and Memory Overflow Prevention Based on Graph Optimization<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Guohao Dai *et al*.<br>30th Asia and South Pacific Design Automation Conference (ASP-DAC) ([ASP-DAC2025](https://www.aspdac.com/aspdac2025/))<br>*Tokyo Odaiba Miraikan, Japan, January 2025.*
+
+  <br>
+
+- Fitop-Trans: Maximizing Transformer Pipeline Efficiency through Fixed-Length Token Pruning on FPGA<br>Kejia Shi\*, Manting Zhang\*, Keqing Zhao, Xiaoxing Wu, **Yang Liu**, Jun Yu, Kun Wang<br>34th International Conference on Field-Programmable Logic and Applications ([FPL2024](http://asaclab.polito.it/fpl2024/))<br>*Turin, Italy, September 2024.*
+  
   <br>
   
 - SDAcc: A Stable Diffusion Accelerator on FPGA via
@@ -25,14 +29,18 @@ title: Publications
 
   <br>
 
-- [DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA](https://ieeexplore.ieee.org/document/10296290)<br>**Yang Liu**, Xiaoming He, Jun Yu, Kun Wang<br>33rd International Conference on Field Programmable Logic and Applications ([FPL2023](https://2023.fpl.org/))<br>*Chalmers University of Technology, Gothenburg, Sweden, Sep. 2023.*
+- DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA [[Link]](https://ieeexplore.ieee.org/document/10296290)<br>**Yang Liu**, Xiaoming He, Jun Yu, Kun Wang<br>33rd International Conference on Field Programmable Logic and Applications ([FPL2023](https://2023.fpl.org/))<br>*Chalmers University of Technology, Gothenburg, Sweden, Sep. 2023.*
 
   <br>
 
 ## Journal Paper
 
-- Coming soon!
+-  DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA *(Under Review)*
 
+  **Yang Liu**,  Shuyang Li, Yu Li, Ruiqi Chen, Shun Li, Jun Yu, Kun Wang
+  
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+  
   <br>
 
 ---
