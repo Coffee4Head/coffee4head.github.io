@@ -12,7 +12,7 @@ title: Publications
   
   <br>
   
-- Deploying Diffusion Models with Latency-Oriented Scheduling and Memory Overflow Prevention Based on Graph Optimization<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Guohao Dai *et al*.<br>30th Asia and South Pacific Design Automation Conference (ASP-DAC) ([ASP-DAC2025](https://www.aspdac.com/aspdac2025/))<br>*Tokyo Odaiba Miraikan, Japan, January 2025.*
+- Deploying Diffusion Models with Latency-Oriented Scheduling and Memory Overflow Prevention Based on Graph Optimization<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Guohao Dai *et al*.<br>30th Asia and South Pacific Design Automation Conference ([ASP-DAC2025](https://www.aspdac.com/aspdac2025/))<br>*Tokyo Odaiba Miraikan, Japan, January 2025.*
 
   <br>
 
@@ -35,12 +35,8 @@ title: Publications
 
 ## Journal Paper
 
--  DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA *(Under Review)*
+-  DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA *(Under Review)*<br>**Yang Liu**, Shuyang Li, Yu Li, Ruiqi Chen, Shun Li, Jun Yu, Kun Wang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
-  **Yang Liu**, Shuyang Li, Yu Li, Ruiqi Chen, Shun Li, Jun Yu, Kun Wang
-  
-  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-  
   <br>
 
 ---
