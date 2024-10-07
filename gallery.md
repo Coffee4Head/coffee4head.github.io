@@ -19,7 +19,6 @@ title: Gallery
     <img src="/images/gallery/niagara1.jpg" alt="Niagara 1" width="36%" height="250px" style="object-fit: cover;"/>   
     <img src="/images/gallery/niagara4.jpg" alt="Niagara 4" width="55%" height="250px" style="object-fit: cover;"/>   
 </p>
-
 <br>
 
 ## Nice to meet you - Ithaca
@@ -40,15 +39,19 @@ title: Gallery
 
 <p align="center">    
     <img src="/images/gallery/la2.jpg" alt="LA 2" width="46%" style="object-fit: cover;"/> 
-    <img src="/images/gallery/la3.jpg" alt="LA 3" width="46%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/la3.jpg" alt="LA 3" width="45%" style="object-fit: cover;"/> 
 </p>
+
 
 <br>
 
-## My Cat
+## Beloved Kittens
 
-This is my love. Her name is Qbo (Q宝).
+They are the kittens downstairs in my dorm. Love them and thank them for keeping me going.
 
-<div>
-<img src="/images/cat.JPG">
-</div>
+<p align="center">    
+    <img src="/images/gallery/cat1.jpg" alt="Cat 1" width="25%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="40%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="25%" style="object-fit: cover;"/> 
+</p>
+
