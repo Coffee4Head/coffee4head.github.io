@@ -58,7 +58,7 @@ My current research focuses on **design automation** that fully exploits the har
 - **Mar. 2024：**SDACC is accepted as a poster by <strong style="color: brown;">FCCM 2024</strong> 🥳.
 - **Feb. 2024：** CSTrans-OPU is accepted by <strong style="color: brown;">DAC'61</strong>, see you in San Francisco 🎉!
 - **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (**First Prize**).
-- **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at FPL 2023, Gothenburg.
+- **Sep. 2023：** Gave a poster presentation at FPL 2023, Gothenburg.
 - **May 2023：**DIF-LUT (first author) is accepted by <strong style="color: brown;">FPL 2023</strong>, see you in Sweden.
 - **Dec. 2022：**Happy to be awarded the Fudan University Freshman Scholarship for Graduate Students.
 - **June 2022：**Happy to be awarded the **Shanghai Outstanding Graduates** (Undergraduate).

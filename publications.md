@@ -41,7 +41,7 @@ title: Publications
 
 ---
 
-## Project Manuscript
+## Selected Projects
 
 #### DIF-LUT | *Python, Verilog HDL, Shell; Vivado*
 

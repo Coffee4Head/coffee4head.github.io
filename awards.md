@@ -27,6 +27,7 @@ title: Awards
 
 ## Honors
 
+- Oct. 2021:  **Fudan University Outstanding Student** <br>
 - June 2024:  **Fudan University Outstanding Administrative Assistant** <br>
 - June 2020:  **<font color='red'>Shanghai Outstanding Graduates</font> (Undergraduate)** <br>
 - Oct. 2021:  **Fudan University Outstanding Student** <br>
