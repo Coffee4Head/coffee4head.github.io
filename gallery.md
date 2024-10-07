@@ -8,6 +8,8 @@ title: Gallery
 
 ## Travel Photo Record - Niagara
 
+<br>
+
 <p align="center">   
     <img src="/images/gallery/niagara2.jpg" alt="Niagara 2" width="45%" height="250px" style="object-fit: cover;"/>   
     <img src="/images/gallery/niagara3.jpg" alt="Niagara 3" width="46%" height="250px" style="object-fit: cover;"/> 
@@ -23,7 +25,7 @@ title: Gallery
 ## Nice to meet you - Ithaca
 
 <p align="center">
-<img src="/images/gallery/ithaca.jpg" width="70%" style="object-fit: cover;"/>
+<img src="/images/gallery/ithaca.jpg" width="80%" style="object-fit: cover;"/>
 </p>
 
 <br>
@@ -32,9 +34,9 @@ title: Gallery
 ## Land in the States - S.F.
 
 <p align="center">   
-    <img src="/images/gallery/la1.jpg" alt="LA 1"  height="250px" style="object-fit: cover;"/>   
-    <img src="/images/gallery/la2.jpg" alt="LA 2"  height="250px" style="object-fit: cover;"/> 
-    <img src="/images/gallery/la3.jpg" alt="LA 3"  height="250px" style="object-fit: cover;"/> 
+    <img src="/images/gallery/la1.jpg" alt="LA 1" width="30%" height="4cm" style="object-fit: cover;"/>   
+    <img src="/images/gallery/la2.jpg" alt="LA 2" width="30%" height="4cm" style="object-fit: cover;"/> 
+    <img src="/images/gallery/la3.jpg" alt="LA 3" width="30%" height="4cm" style="object-fit: cover;"/> 
 </p>
 
 <br>
