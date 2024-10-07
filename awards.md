@@ -21,9 +21,10 @@ title: Awards
 - May 2024 - Sep. 2024: 2024 CAD Contest at ICCAD (**Honorable Mention Team**)
 
 <p align="center">    
-    <img src="/images/awards/before.jpg" alt="CAD 1" width="50%" style="object-fit: cover;"/> 
-    <img src="/images/awards/after.jpg" alt="CAD 2" width="50%" style="object-fit: cover;"/> 
+    <img src="/images/awards/before.jpg" alt="CAD 1" width="46%" style="object-fit: cover;"/> 
+    <img src="/images/awards/after.jpg" alt="CAD 2" width="46%" style="object-fit: cover;"/> 
 </p>
+
 
 <br>
 
