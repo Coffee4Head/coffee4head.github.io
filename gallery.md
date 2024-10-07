@@ -46,11 +46,13 @@ title: Gallery
 
 ## Beloved Kittens
 
-They are the kittens downstairs in my dorm. Love them and thank them for keeping me going.
+They are the kittens downstairs in my dorm. 
+
+Love them and thank them for keeping me going.
 
 <p align="center">    
     <img src="/images/gallery/cat1.jpg" alt="Cat 1" width="28%" style="object-fit: cover;"/> 
-    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="41%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="42%" style="object-fit: cover;"/> 
     <img src="/images/gallery/cat3.jpg" alt="Cat 3" width="22%" style="object-fit: cover;"/> 
 </p>
 
