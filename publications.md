@@ -13,7 +13,7 @@ title: Publications
   <br>
   
   <p align="center">
-  <img src="/images/publication/translib.jpg" alt="translib" width="95%" style="object-fit: cover;"/>
+  <img src="/images/publication/translib.jpg" alt="translib" width="100%" style="object-fit: cover;"/>
   </p>
   
   <br>
@@ -40,7 +40,7 @@ title: Publications
 <br>
 
 <p align="center">
-<img src="/images/publication/dif_lut.jpg" alt="dif_lut" width="95%" style="object-fit: cover;"/>
+<img src="/images/publication/dif_lut.jpg" alt="dif_lut" width="100%" style="object-fit: cover;"/>
 </p>
 
 <br>

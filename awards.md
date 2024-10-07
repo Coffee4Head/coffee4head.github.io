@@ -26,8 +26,8 @@ title: Awards
 <br>
 
 <p align="center">    
-    <img src="/images/awards/before.jpg" alt="CAD 1" width="45%" style="object-fit: cover;"/> 
-    <img src="/images/awards/after.jpg" alt="CAD 2" width="45%" style="object-fit: cover;"/> 
+    <img src="/images/awards/before.jpg" alt="CAD 1" width="50%" style="object-fit: cover;"/> 
+    <img src="/images/awards/after.jpg" alt="CAD 2" width="50%" style="object-fit: cover;"/> 
 </p>
 
 <br>
