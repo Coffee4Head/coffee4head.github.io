@@ -26,7 +26,6 @@ title: Gallery
 <p align="center">
 <img src="/images/gallery/ithaca.jpg" width="80%" style="object-fit: cover;"/>
 </p>
-
 <br>
 
 
@@ -35,7 +34,7 @@ title: Gallery
 <p align="center">
 <img src="/images/gallery/la1.jpg" alt="LA 1" width="80%" style="object-fit: cover;"/>
 </p>
-
+<br>
 
 <p align="center">    
     <img src="/images/gallery/la2.jpg" alt="LA 2" width="46%" style="object-fit: cover;"/> 
@@ -50,8 +49,8 @@ title: Gallery
 They are the kittens downstairs in my dorm. Love them and thank them for keeping me going.
 
 <p align="center">    
-    <img src="/images/gallery/cat1.jpg" alt="Cat 1" width="26%" style="object-fit: cover;"/> 
-    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="39%" style="object-fit: cover;"/> 
-    <img src="/images/gallery/cat3.jpg" alt="Cat 3" width="20%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat1.jpg" alt="Cat 1" width="28%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="41%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat3.jpg" alt="Cat 3" width="22%" style="object-fit: cover;"/> 
 </p>
 
