@@ -47,22 +47,23 @@ My current research focuses on **design automation** that fully exploits the har
 
 ## News and Updates
 
-- **Sep. 2024：**Our paper is accepted by <strong style="color: brown;">ASP-DAC 2025</strong>!
-- **June 2024：**Our paper is accepted by <strong style="color: brown;">ICCAD 2024</strong>, see you in New Jersey!
-- **June 2024：**Start to serve as a Graduate Research Intern at **Cornell University**, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca!
-- **June 2024：**Gave an oral presentation on behalf of my colleague at [DAC'61, San Francisco](https://www.dac.com/).
-- **May 2024：**Our paper is accepted as a regular paper by <strong style="color: brown;">FPL 2024</strong>.
-- **Mar. 2024：**Our paper is accepted as a poster by <strong style="color: brown;">FCCM 2024</strong>.
-- **Feb. 2024：**Our paper is accepted by <strong style="color: brown;">DAC'61</strong>, see you in San Francisco!
+- **Oct. 2024：**Our team is recommended as an **Honorable Mention team** in ICCAD Contest 🎊!
+- **Oct. 2024：**Happy to be awarded the Fudan University BYD Endowed Scholarship!
+- **Sep. 2024：**One co-author paper is accepted by <strong style="color: brown;">ASP-DAC 2025</strong> 🥳!
+- **June 2024：**Happy to be awarded the Fudan University Outstanding Administrative Assistant!
+- **June 2024：**Translib (first author) is accepted by <strong style="color: brown;">ICCAD 2024</strong>, see you in New Jersey 🎉!
+- **June 2024：**Start to serve as a Graduate Research Intern at **Cornell University**, supervised by Prof. Zhiru Zhang. Nice to settle in Ithaca🐿️! 
+- **June 2024：**Gave an oral presentation (TrafficHD) at DAC'61, San Francisco.
+- **May 2024：** Fitop-Trans is accepted as a regular paper by <strong style="color: brown;">FPL 2024</strong> 🥳.
+- **Mar. 2024：**SDACC is accepted as a poster by <strong style="color: brown;">FCCM 2024</strong> 🥳.
+- **Feb. 2024：** CSTrans-OPU is accepted by <strong style="color: brown;">DAC'61</strong>, see you in San Francisco 🎉!
 - **Dec. 2023：**Happy to be awarded the Fudan University Graduate Student Excellence Scholarship (**First Prize**).
-- **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at [FPL 2023, Gothenburg](https://2023.fpl.org/).
-- **May 2023：**Our paper is accepted by <strong style="color: brown;">FPL 2023</strong>, see you in Sweden.
+- **Sep. 2023：** Gave a poster presentation on "DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA" at FPL 2023, Gothenburg.
+- **May 2023：**DIF-LUT (first author) is accepted by <strong style="color: brown;">FPL 2023</strong>, see you in Sweden.
 - **Dec. 2022：**Happy to be awarded the Fudan University Freshman Scholarship for Graduate Students.
 - **June 2022：**Happy to be awarded the **Shanghai Outstanding Graduates** (Undergraduate).
 - **May 2022：**Happy to be awarded the Fudan University Undergraduate Student Excellence Scholarship (**First Prize**).
-- **Feb. 2022：**Our team (*fmsh*) won the **fifth place** in [2021AIWIN Fall - ECG Diagnosis Track](http://aiwin.org.cn/competitions/64).
 - **Feb. 2022：**Start my research studies in State Key Laboratory of ASIC and System in Fudan University.
-- **Nov. 2021：**Our team (*fmsh*) won the **Grand Prize** in [Shanghai Urban Digital Transformation Intelligent Algorithm Competition](http://aiwin.org.cn/competitions/60).
 - **July. 2021：**Started my IC intern at Intelligence Computing Lab in Shanghai Fudan Microelectronics Group Co., Ltd.
 - **Dec. 2020：**Happy to be awarded the **Shanghai Municipal Scholarship**.
 
