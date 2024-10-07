@@ -32,9 +32,9 @@ title: Gallery
 ## Land in the States - S.F.
 
 <p align="center">   
-    <img src="/images/gallery/la1.jpg" alt="LA 1" width="30%" height="250px" style="object-fit: cover;"/>   
-    <img src="/images/gallery/la2.jpg" alt="LA 2" width="30%" height="250px" style="object-fit: cover;"/> 
-    <img src="/images/gallery/la3.jpg" alt="LA 3" width="30%" height="250px" style="object-fit: cover;"/> 
+    <img src="/images/gallery/la1.jpg" alt="LA 1"  height="250px" style="object-fit: cover;"/>   
+    <img src="/images/gallery/la2.jpg" alt="LA 2"  height="250px" style="object-fit: cover;"/> 
+    <img src="/images/gallery/la3.jpg" alt="LA 3"  height="250px" style="object-fit: cover;"/> 
 </p>
 
 <br>
