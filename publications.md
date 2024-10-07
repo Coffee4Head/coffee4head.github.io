@@ -27,7 +27,7 @@ title: Publications
   <br>
   
 - SDAcc: A Stable Diffusion Accelerator on FPGA via
-    Software-Hardware Co-Design<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Kun Wang<br>32nd IEEE International Symposium On Field-Programmable Custom Computing Machines ([FCCM2024](https://www.fccm.org/))<br>*Orlando, FL, USA, May 2024.*
+    Software-Hardware Co-Design [[Link]](https://ieeexplore.ieee.org/document/10653678)<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Kun Wang<br>32nd IEEE International Symposium On Field-Programmable Custom Computing Machines ([FCCM2024](https://www.fccm.org/))<br>*Orlando, FL, USA, May 2024.*
 
   <br>
 
