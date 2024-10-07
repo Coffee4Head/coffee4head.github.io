@@ -12,22 +12,23 @@ title: Publications
   
   <br>
   
-  <p align="center">
-  <img src="/images/publication/translib.jpg" alt="translib" width="100%" style="object-fit: cover;"/>
-  </p>
-  
-  <br>
-  
+
+<p align="center">
+<img src="/images/publication/translib.jpg" alt="translib" width="95%" style="object-fit: cover;"/>
+</p>
+
+<br>
+
 - Deploying Diffusion Models with Latency-Oriented Scheduling and Memory Overflow Prevention Based on Graph Optimization<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Guohao Dai *et al*.<br>30th Asia and South Pacific Design Automation Conference ([ASP-DAC2025](https://www.aspdac.com/aspdac2025/))<br>*Tokyo Odaiba Miraikan, Japan, January 2025.*
 
   <br>
 
 - Fitop-Trans: Maximizing Transformer Pipeline Efficiency through Fixed-Length Token Pruning on FPGA<br>Kejia Shi\*, Manting Zhang\*, Keqing Zhao, Xiaoxing Wu, **Yang Liu**, Jun Yu, Kun Wang<br>34th International Conference on Field-Programmable Logic and Applications ([FPL2024](http://asaclab.polito.it/fpl2024/))<br>*Turin, Italy, September 2024.*
-  
+
   <br>
-  
+
 - SDAcc: A Stable Diffusion Accelerator on FPGA via
-    Software-Hardware Co-Design [[Link]](https://ieeexplore.ieee.org/document/10653678)<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Kun Wang<br>32nd IEEE International Symposium On Field-Programmable Custom Computing Machines ([FCCM2024](https://www.fccm.org/))<br>*Orlando, FL, USA, May 2024.*
+  Software-Hardware Co-Design [[Link]](https://ieeexplore.ieee.org/document/10653678)<br>Hao Zhou, **Yang Liu**, Hongji Wang, Enhao Tang, Shun Li, Yifan Zhang, Kun Wang<br>32nd IEEE International Symposium On Field-Programmable Custom Computing Machines ([FCCM2024](https://www.fccm.org/))<br>*Orlando, FL, USA, May 2024.*
 
   <br>
 
@@ -40,7 +41,7 @@ title: Publications
 <br>
 
 <p align="center">
-<img src="/images/publication/dif_lut.jpg" alt="dif_lut" width="100%" style="object-fit: cover;"/>
+<img src="/images/publication/dif_lut.jpg" alt="dif_lut" width="95%" style="object-fit: cover;"/>
 </p>
 
 <br>

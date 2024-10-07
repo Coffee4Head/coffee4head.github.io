@@ -19,16 +19,18 @@ title: Awards
 ## Competitions (Selected)
 
 - May 2024 - Sep. 2024: 2024 CAD Contest at ICCAD (**Honorable Mention Team**)
-- Oct. 2021 - Feb. 2022: 2021AIWIN Fall – ECG Diagnosis Track (**Fifth Place**)
-- Aug. 2021 - Nov. 2021: 2021 Shanghai Urban Digital Transformation Intelligent Algorithm Competition (**Grand Prize**)
-- June 2021: Autonomous Obstacle-Avoidance Mini-Car Competition (Second Place)
-
-<br>
 
 <p align="center">    
     <img src="/images/awards/before.jpg" alt="CAD 1" width="50%" style="object-fit: cover;"/> 
     <img src="/images/awards/after.jpg" alt="CAD 2" width="50%" style="object-fit: cover;"/> 
 </p>
+
+<br>
+
+- Oct. 2021 - Feb. 2022: 2021AIWIN Fall – ECG Diagnosis Track (**Fifth Place**)
+- Aug. 2021 - Nov. 2021: 2021 Shanghai Urban Digital Transformation Intelligent Algorithm Competition (**Grand Prize**)
+- June 2021: Autonomous Obstacle-Avoidance Mini-Car Competition (Second Place)
+
 
 <br>
 
