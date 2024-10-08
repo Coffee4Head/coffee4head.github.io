@@ -52,7 +52,7 @@ title: Publications
 
 ## Selected Projects
 
-#### Allo | *Python, C++, HLS, MLIR; Vitis, Pytest, CI*
+#### Allo [[Link]](https://github.com/cornell-zhang/allo) | *Python, C++, HLS, MLIR; Vitis, Pytest, CI*
 
 - Explore the potential of agile design for programmable architecture with advanced programming model<br>
 
@@ -70,7 +70,7 @@ title: Publications
 
   <br>
 
-#### DIF-LUT | *Python, Verilog HDL, Shell; Vivado*
+#### DIF-LUT [[Link]](https://github.com/AdrianLiu00/DIF-LUT-Tool)| *Python, Verilog HDL, Shell; Vivado*
 
 - Proposes a simple yet scalable and effective approximation method for Non-linear activation in Neural Networks<br>
 
