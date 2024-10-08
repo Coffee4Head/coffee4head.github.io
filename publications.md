@@ -10,8 +10,6 @@ title: Publications
 
 - TransLib: An Extensible Graph-Aware Library Framework for Automated Generation of Transformer Operators on FPGA<br>**Yang Liu**, Tianchen Wang, Yuxuan Dong, Zexu Zhang, Shun Li, Jun Yu, Kun Wang<br>2024 ACM/IEEE International Conference on Computer-Aided Design ([ICCAD2024](https://2024.iccad.com/))<br>*New Jersey, USA, October 2024.*
   
-  <br>
-  
 
 <p align="center">
 <img src="/images/publication/translib.jpg" alt="translib" width="95%" style="object-fit: cover;"/>
@@ -37,8 +35,6 @@ title: Publications
   <br>
 
 - DIF-LUT: A Simple Yet Scalable Approximation for Non-linear Activation Function on FPGA [[Link]](https://ieeexplore.ieee.org/document/10296290)<br>**Yang Liu**, Xiaoming He, Jun Yu, Kun Wang<br>33rd International Conference on Field Programmable Logic and Applications ([FPL2023](https://2023.fpl.org/))<br>*Chalmers University of Technology, Gothenburg, Sweden, Sep. 2023.*
-
-<br>
 
 <p align="center">
 <img src="/images/publication/dif_lut.jpg" alt="dif_lut" width="95%" style="object-fit: cover;"/>

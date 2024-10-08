@@ -18,7 +18,10 @@ title: Awards
 
 ## Competitions (Selected)
 
-- May 2024 - Sep. 2024: 2024 CAD Contest at ICCAD (**Honorable Mention Team**)
+- May 2024 - Sep. 2024: 2024 CAD Contest at ICCAD 
+  - **Honorable Mention Team**
+  - Track: Power and Timing Optimization Using Multibit Flip-Flop
+
 
 <p align="center">    
     <img src="/images/awards/before.jpg" alt="CAD 1" width="46%" style="object-fit: cover;"/> 
