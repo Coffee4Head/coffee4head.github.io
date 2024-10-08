@@ -51,7 +51,8 @@ They are the kittens downstairs from my dorm.
 Love them and thank them for keeping me going.
 
 <p align="center">    
-    <img src="/images/gallery/cat1.jpg" alt="Cat 1" width="28%" style="object-fit: cover;"/> 
-    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="42%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat1.jpg" alt="Cat 1" width="28.5%" style="object-fit: cover;"/> 
+    <img src="/images/gallery/cat2.jpg" alt="Cat 2" width="43%" style="object-fit: cover;"/> 
     <img src="/images/gallery/cat3.jpg" alt="Cat 3" width="21.5%" style="object-fit: cover;"/> 
 </p>
+
