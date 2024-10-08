@@ -31,12 +31,12 @@ title: Awards
 
 <br>
 
-- Oct. 2021 - Feb. 2022: 2021AIWIN Fall – ECG Diagnosis Track
+- Oct. 2021 - Feb. 2022: 2021AIWIN Fall
   - **Fifth Place**
-
+  - Track: AI-aided ECG Diagnosis
 - Aug. 2021 - Nov. 2021: 2021 Shanghai Urban Digital Transformation Intelligent Algorithm Competition
   - **Grand Prize**
-
+  - Track: Posture Recognition in Urban Scenarios
 - June 2021: Autonomous Obstacle-Avoidance Mini-Car Competition
   - Second Place
 
