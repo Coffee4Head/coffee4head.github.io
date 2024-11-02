@@ -48,7 +48,7 @@ My current research focuses on **design automation** that fully exploits the har
 ## News and Updates
 
 - **Nov. 2024：**Happy to be awarded the **National Scholarship** **(top 1%)** at Fudan University🎉!!
-- **Oct. 2024：**Our team is recommended as an **Honorable Mention team** in ICCAD Contest 🎊!
+- **Oct. 2024：**Our team is recommended as an **Honorable Mention team** in ICCAD Contest 🎊! Hats off to the team for everyone's efforts!
 - **Sep. 2024：**One co-author paper is accepted by <strong style="color: brown;">ASP-DAC 2025</strong> 🥳!
 - **June 2024：**Happy to be awarded the Fudan University Outstanding Administrative Assistant!
 - **June 2024：**Translib (first author) is accepted by <strong style="color: brown;">ICCAD 2024</strong>, see you in New Jersey 🎉!
