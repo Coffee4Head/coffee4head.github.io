@@ -6,7 +6,7 @@ title: Awards
 
 ## Scholarships
 
-- Oct. 2024:  **Fudan University BYD Endowed Scholarship** <br>
+- Oct. 2024:  **National Scholarship (Graduate)** <br>
 - Dec. 2023:  **Fudan University Graduate Student Excellence Scholarship First Prize** <br>
 - Dec. 2022:  Fudan University Freshman Scholarship for Graduate Students <br>
 - May 2022:  **Fudan University Undergraduate Student Excellence Scholarship First Prize** <br>
