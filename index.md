@@ -10,7 +10,7 @@ layout: page
 
 Here is **Yang Adrian Liu (柳扬)**.
 
-I am a second year M.S. student majoring in **Electronics Science and Technology** in the School of Microelectronics at **Fudan University**. Since 2022, I have been a research assistant at the State Key Laboratory of ASIC and System, advised by [Prof. Jun Yu](https://sme.fudan.edu.cn/60/5e/c31157a352350/page.htm) and [Prof. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html). Currently, I serve as a graduate intern in the Computer Systems Laboratory at **Cornell University**, under the supervison of [Prof. Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/).
+I am a third year M.S. student majoring in **Electronics Science and Technology** in the School of Microelectronics at **Fudan University**. Since 2022, I have been a research assistant at the State Key Laboratory of ASIC and System, advised by [Prof. Jun Yu](https://sme.fudan.edu.cn/60/5e/c31157a352350/page.htm) and [Prof. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html). Currently, I serve as a graduate intern in the Computer Systems Laboratory at **Cornell University**, under the supervison of [Prof. Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yang_liu22@m.fudan.edu.cn* or *adrianliu00@gmail.com*
 
